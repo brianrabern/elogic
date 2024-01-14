@@ -5,7 +5,7 @@
 
 ## Getting started
 
-**∃Logic** is a web-based application for teaching logic. The application offers various exercises with immediate and automated corrections, including error messages, hints, and explanations, all presented through an intuitive user interface. It provides a platform for completing and recording logic homework with ease.
+**∃Logic** is a web-based application for teaching logic. The application offers various exercises with automated corrections, including error messages, hints, and explanations. It provides a platform for completing and recording logic homework with ease. Instructors wanting to use the app in their class can get more info [here](https://info.elogic.land/).
 
 1. Go to the **"Sign Up"** page [here](https://elogic.land/sign-up) (elogic.land/sign-up) and fill out the form using your student email.
 
@@ -183,3 +183,9 @@ assumption for indirect derivation: ass id
 
 assumption for conditional derivation: ass cd
 ```
+
+## Contact
+
+Contact: ```hello@getelogic.com```
+
+Web: [https://info.elogic.land/](info.elogic.land)
