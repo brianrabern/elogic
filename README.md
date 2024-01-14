@@ -45,7 +45,7 @@ The task for derivation problems is to construct a proof of the conclusion given
 
 ![Derivations](assets/d115.png)
 
-Every new line in a derivation is either a "show" line, an assumption, a premise, or follows from available lines by a rule of inference (see [rules](assest/rules.pdf)).
+Every new line in a derivation is either a "show" line, an assumption, a premise, or follows from available lines by a rule of inference (see [rules](assets/rules.pdf)).
 
 ![Derivation Example](assets/der1.png)
 
